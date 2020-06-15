@@ -1,2 +1,2 @@
 # IS
-Techniques for image segmenation
+Techniques for image segmentation
